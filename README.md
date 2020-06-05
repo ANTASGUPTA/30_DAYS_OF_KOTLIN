@@ -10,7 +10,7 @@ May 23, 2020 : Webinar #2
 
 May 26, 2020 - June 7, 2020 : Submit project
 
-For the same I have created a Calculator Application which is capapble of doing all the basic mathematical operations which includes: Addition, Subtraction, Multiplication and Division.
+For the same I have created a Calculator Application which is capable of doing all the basic mathematical operations which include: Addition, Subtraction, Multiplication and Division.
 
 Thank You
 
